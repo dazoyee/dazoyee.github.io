@@ -1,0 +1,11 @@
+title: dazoyee space
+# email:
+description: >-
+baseurl: "/dazoyee-space"
+url: ""
+twitter_username: dazoyee
+github_username: dazoyee
+
+theme: jekyll-theme-clean-blog
+plugins:
+  - jekyll-feed
