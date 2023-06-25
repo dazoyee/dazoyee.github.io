@@ -6,6 +6,7 @@ url: ""
 twitter_username: dazoyee
 github_username: dazoyee
 
-theme: jekyll-theme-clean-blog
+#theme: jekyll-theme-clean-blog
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
