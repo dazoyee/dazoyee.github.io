@@ -338,7 +338,6 @@ PCF側でよしなに色々行われた後に、「https://XXXX」として作�
         ```
         cf login -a https://xxxx
         ```
-       `cf login -a https://api.sys.stg-sbps.jp`
 
        ログインすると、コマンドが案内してくれる
 
