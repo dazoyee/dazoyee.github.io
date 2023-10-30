@@ -13,20 +13,20 @@ categories: "howto"
     - C:\Users\your user\scoop\apps\mariadb\current\data\my.ini
     ```
     [mysqld]
-    datadir=C:/Users/ioiso/scoop/apps/mariadb/current/data
+    datadir=C:/Users/xxxx/scoop/apps/mariadb/current/data
     [client]
-    plugin-dir=C:/Users/ioiso/scoop/apps/mariadb/current/lib/plugin
+    plugin-dir=C:/Users/xxxx/scoop/apps/mariadb/current/lib/plugin
     ```
    ↓
     ```
     [mysqld]
-    datadir=C:/Users/ioiso/scoop/apps/mariadb/current/data
+    datadir=C:/Users/xxxx/scoop/apps/mariadb/current/data
     port=3306
     innodb_buffer_pool_size=2004M
     character-set-server=utf8
     [client]
     port=3306
-    plugin-dir=C:/Users/ioiso/scoop/apps/mariadb/current/lib/plugin
+    plugin-dir=C:/Users/xxxx/scoop/apps/mariadb/current/lib/plugin
     ```
 2. 管理者権限でコマンドラインから下記コマンドを実行する
     ```
